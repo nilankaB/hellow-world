@@ -10,6 +10,6 @@ public class EmployeeController {
     @GetMapping(value="/b")
     public String viewEmployee(){
         System.out.println("Method invoked");
-        return "yasitha";
+        return "nilanka";
     }
 }
